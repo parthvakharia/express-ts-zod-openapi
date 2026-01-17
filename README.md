@@ -1,6 +1,6 @@
 # express-zod-openapi
 
-[![npm version](https://img.shields.io/npm/v/express-zod-openapi.svg)](https://www.npmjs.com/package/express-zod-openapi)
+[![npm version](https://img.shields.io/npm/v/express-zod-openapi.svg)](https://www.npmjs.com/package/express-ts-zod-openapi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Type-safe Express APIs with Zod validation and automatic OpenAPI/Swagger generation
