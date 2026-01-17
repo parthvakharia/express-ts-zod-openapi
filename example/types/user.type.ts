@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { withSchemaName } from '../../src';
+import { withSchemaName } from 'express-ts-zod-openapi';
 
 export const UserStatus = z
   .enum(['active', 'inactive'])

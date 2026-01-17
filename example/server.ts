@@ -1,5 +1,5 @@
 import express from 'express';
-import { buildOpenApi, withSchemaName } from '../src';
+import { buildOpenApi } from 'express-ts-zod-openapi';
 import { router } from './typedRouter';
 import { authMiddleware } from './middleware/auth.middleware';
 import './routes'; // Auto-loads all routes

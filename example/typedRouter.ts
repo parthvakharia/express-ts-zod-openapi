@@ -1,4 +1,4 @@
-import { TypedRouter } from "../src/router";
+import { TypedRouter } from "express-ts-zod-openapi";
 
 
 // Export a shared singleton instance

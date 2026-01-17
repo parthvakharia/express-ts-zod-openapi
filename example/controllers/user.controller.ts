@@ -1,5 +1,5 @@
 import { CreateUserBodyType, UserType, UpdateUserBodyType, GetUserByIdRequestParamsType } from '../types';
-import { HandlerContext } from '../../src';
+import { HandlerContext } from 'express-ts-zod-openapi';
 
 // In-memory user store for demonstration purposes
 const users = new Map<string, UserType>();

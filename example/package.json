@@ -3,5 +3,10 @@
   "private": true,
   "scripts": {
     "start": "ts-node --project ./tsconfig.json server.ts"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-ts-zod-openapi": "^1.0.2",
+    "zod": "^4.3.5"
   }
 }

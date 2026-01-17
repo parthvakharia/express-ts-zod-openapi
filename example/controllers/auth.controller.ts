@@ -1,4 +1,4 @@
-import { HandlerContext } from '../../src';
+import { HandlerContext } from 'express-ts-zod-openapi';
 import { AuthRequest } from '../types';
 
 // Now you can use custom Request type with HandlerContext

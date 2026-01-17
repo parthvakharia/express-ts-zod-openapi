@@ -6,7 +6,7 @@ import {
   GetAnimalsBySpeciesQueryType,
   AuthRequest,
 } from '../types';
-import { HandlerContext } from '../../src';
+import { HandlerContext } from 'express-ts-zod-openapi';
 
 // In-memory animal store for demonstration purposes
 const animals = new Map<string, AnimalType>();
